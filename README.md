@@ -1,3 +1,3 @@
-# react-custom-scrollbar
+# Custom Scroll Bar using React + TS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-custom-scrollbar-4acv8r)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-custom-scrollbar)
